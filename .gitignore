@@ -8,3 +8,5 @@ work/
 .env
 .env.*
 !.env.example
+
+.vercel
